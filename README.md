@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Blog project has been build to learn how to build modern and secure Full-Stack applications with React, TypeScript, and Nest.js.
+(https://5e60b9349676400678a69cf6--objective-volhard-b4037e.netlify.com/).
 
 ## Available Scripts
 
@@ -7,7 +8,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](https://5e60b9349676400678a69cf6--objective-volhard-b4037e.netlify.com/) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
